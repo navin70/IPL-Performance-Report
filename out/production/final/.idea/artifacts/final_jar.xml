@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/final_jar</output-path>
+    <root id="archive" name="final.jar">
+      <element id="module-output" name="final" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/common/hadoop-common-3.3.4-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/common/hadoop-common-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/common/hadoop-kms-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/common/hadoop-nfs-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/common/hadoop-registry-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/yarn/hadoop-yarn-client-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
